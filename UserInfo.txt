@@ -1,0 +1,12 @@
+========================================
+First Name: as
+Last Name: asd
+Phone: 12331231312
+Postal Code: 05999
+Address: saddasdds
+----------------------------------------
+Products Ordered:
+1 Xiaomi RedmiNote13Pro Smartphone 35000 15
+1 Xiaomi RedmiNote13Pro Smartphone 35000 15
+2 Apple MacBookPro14 Laptop 625000 5
+========================================

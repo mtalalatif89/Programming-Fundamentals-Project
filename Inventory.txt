@@ -1,0 +1,4 @@
+1|Xiaomi|RedmiNote13Pro|Smartphone|35000|15|
+2|Apple|MacBookPro14|Laptop|625000|5|
+3|ASUS|ROGZephyrusG14|Laptop|450000|3|
+4|ASUS|Vivobook15|Laptop|125000|18|
